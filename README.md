@@ -11,8 +11,8 @@ This project seeks to analyze Aroldis Chapman's pitch mix, spin rate, and veloci
 My findings conclude that his performance has not declined as a result of his age between 2020 and 2024.
 
 ## Technologies Used:
-Python libraries - pandas, matplotlib, pybaseball
-Sources - Statcast using pybaseball
+- Python libraries - pandas, matplotlib, pybaseball
+- Sources - Statcast using pybaseball
 
 ## How to Run:
 Clone the repo:

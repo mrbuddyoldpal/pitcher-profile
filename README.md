@@ -17,21 +17,21 @@ Sources - Statcast using pybaseball
 ## How to Run:
 Clone the repo:
 ```bash
-git clone
+git clone https://github.com/mrbuddyoldpal/pitcher-profile.git
 ```
 
-make a venv environment inside the cloned folder:
+Make a venv environment inside the cloned folder:
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-install the libraries using the requirements.txt file:
+Install the libraries using the requirements.txt file:
 ```bash
 pip install -r requirements.txt
 ```
 
-run Jupyter:
+Run Jupyter:
 ```bash
 jupyter notebook
 ```

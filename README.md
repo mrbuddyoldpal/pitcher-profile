@@ -1,7 +1,7 @@
 # Aroldis Chapman Pitch Analysis
 
 ## Overview:
-This project seeks to analyze Aroldis Chapman's pitch mix, spin rate, and velocity analytics to see if his age has truly affected his performance.
+This project seeks to analyze Aroldis Chapman's pitch mix, spin rate, and velocity analytics to see if his age has truly affected his performance between 2020 and 2024.
 
 ## Key Findings:
 - I found that his velocity with his fastball and sinker has maintained steadily between 2020 and 2024.
@@ -38,3 +38,5 @@ jupyter notebook
 
 LASTLY:
 Open the chapman_profile notebook from the notebooks/ folder and run all cells.
+
+Enjoy!
